@@ -2,7 +2,7 @@
 
 ### Makine Öğrenmesi ve Bayesian Ağları Tabanlı Analiz
 
-**2025-2026 Veri Madenciliği** dersi kapsamında geliştirilen bu ekip projesi, klinik özelliklerden yararlanarak `HeartDisease` hedef değişkenini tahmin etmeyi amaçlar. Çalışmada veri ön işleme, **Random Forest**, **Gradient Boosting** ve **Tree Augmented Naive Bayes (TAN)** yöntemleri uygulanmış; sınıflandırma sonuçları ve değişkenler arasındaki olasılıksal ilişkiler incelenmiştir.
+**Veri Madenciliği** dersi kapsamında geliştirilen bu ekip projesi, klinik özelliklerden yararlanarak `HeartDisease` hedef değişkenini tahmin etmeyi amaçlar. Çalışmada veri ön işleme, **Random Forest**, **Gradient Boosting** ve **Tree Augmented Naive Bayes (TAN)** yöntemleri uygulanmış; sınıflandırma sonuçları ve değişkenler arasındaki olasılıksal ilişkiler incelenmiştir.
 
 ## Proje ekibi
 
