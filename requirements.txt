@@ -1,0 +1,12 @@
+# Original package versions were not provided with the project.
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+networkx
+pgmpy
+jupyterlab
+ipykernel
